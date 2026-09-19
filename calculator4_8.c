@@ -8,7 +8,7 @@ int main (){
     else if(ch=='-')printf("%d",a-b);//exp : 5 - 2 =3
     else if(ch=='*')printf("%d",a*b);
     else if(ch=='/')printf("%d",a/b);
-    else if(ch=='%')printf("%d",a%b);
+    else if(ch=='%')printf("%d",a%b);//exp : 5 % 2 =1
     else printf("please enter a valid arethmetic operator");
    return 0;
 }
