@@ -1,0 +1,9 @@
+*.dSYM/
+.vscode/
+*.plist
+*
+!*/
+!*.c
+!*.h
+!README.md
+!.gitignore
