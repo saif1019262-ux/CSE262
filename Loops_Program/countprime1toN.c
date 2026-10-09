@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main (){
-    int n,p;
+    int n,count=0,p;
     printf("Enter a number : ");
     scanf("%d",&n);
     for (int upto=1;upto<=n;upto++){
